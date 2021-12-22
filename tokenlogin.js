@@ -1,4 +1,4 @@
-alert("Token: " + document.getElementsByName('token')[0].value);
+let token = ('your-token-here');
 
 function login(token) {
     setInterval(() => {
